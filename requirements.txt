@@ -1,0 +1,11 @@
+pymupdf
+sentence-transformers
+mistralai
+python-dotenv
+numpy
+langchain
+langchain-experimental
+langchain-mistralai
+langchain-community
+faiss-gpu
+yandex-chain==0.0.9
